@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: job1
     strategy:
-      max-parallel: 1
+      max-parallel: 5
       matrix:
         node: [I2S-4MFlash, SqueezeAmp, Muse]
         depth: [16, 32]
