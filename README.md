@@ -1,4 +1,4 @@
-> Just a fork
+> Just a fork, stub change
 
 [![Platform Build](https://github.com/sle118/squeezelite-esp32/actions/workflows/Platform_build.yml/badge.svg)](https://github.com/sle118/squeezelite-esp32/actions/workflows/Platform_build.yml)
 
